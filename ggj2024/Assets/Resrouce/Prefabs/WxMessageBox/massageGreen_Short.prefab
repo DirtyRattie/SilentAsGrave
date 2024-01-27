@@ -119,7 +119,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4207482ba12765544999ee608b17344c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  healthMassageGreenShort: 3
+  healthMassageGreenShort: 6
+  col: {fileID: 0}
 --- !u!50 &4417216712856696201
 Rigidbody2D:
   serializedVersion: 4

@@ -119,8 +119,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b8f1bb02be6762046a83c0838b1c3e38, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  healthMassageGreen: 5
-  bone_2: {fileID: 0}
+  healthMassageGreen: 9
   col: {fileID: 0}
 --- !u!50 &-5264797481011009559
 Rigidbody2D:
